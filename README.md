@@ -1,1 +1,1 @@
-# rnn_fashion_mnist
+# nn_fashion_mnist
